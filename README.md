@@ -1,8 +1,8 @@
 # README FILE FOR RSA FACTORING CHALLENGE
 
-##ADVANCED TASKS
+## ADVANCED TASKS
 
-###0. Factorize all the things!
+### 0. Factorize all the things!
 Factorize as many numbers as possible into a product of two smaller numbers.
 Usage: factors <file>
 where <file> is a file containing natural numbers to factor.
@@ -20,7 +20,7 @@ Time limit: Your program will be killed after 5 seconds if it hasn’t finish
 Push all your scripts, source code, etc… to your repository
 we will only run your executable factors
 
-###1. RSA Factoring Challenge
+### 1. RSA Factoring Challenge
 RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that
 n = p × q. The problem is to find these two primes, given only n.
 This task is the same as task 0, except:
